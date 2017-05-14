@@ -1,0 +1,7 @@
+#Sun May 14 07:57:55 ICT 2017
+base.0=C\:\\Users\\dell\\Downloads\\Compressed\\android-vision-master\\android-vision-master\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d27b1258596e75e64ab6fc756f5556217cf21670
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dell\\Downloads\\Compressed\\android-vision-master\\android-vision-master\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2343eb92bb21c0b60f32e2c73631ed1ce3cb37da\\classes.dex
+base.1=C\:\\Users\\dell\\Downloads\\Compressed\\android-vision-master\\android-vision-master\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2343eb92bb21c0b60f32e2c73631ed1ce3cb37da
+file.0=C\:\\Users\\dell\\Downloads\\Compressed\\android-vision-master\\android-vision-master\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d27b1258596e75e64ab6fc756f5556217cf21670\\classes.dex

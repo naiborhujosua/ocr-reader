@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\77196322c4c6e2846545625a9f3f9fdd8bfd4e57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_391deda22a3f8db783932f4956a467483b19b091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\aa5e6130f1e3fbc6c3578cee44035c6e4466f3f2\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_643bebc337d51a20c778c7ada6f0c38cc9297301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\474cef389b3cf80c6dbae6bbb7b9e4238fba0c1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_187bdc339671f1c40ac87e1c93acc406663265d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\380efd521b1f1b73b2c2a4cb1a4f0b40313ac8ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77afcf8808126c1db5aba1dcfb37cb25c9d84eb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\1074b9de2490ee9b6304acd99a49092de84d512b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3402e84c0b8d7d6cd25d4d6d9c1b511aa5f91cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\1074b9de2490ee9b6304acd99a49092de84d512b\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d96e310f53b75a190e99fb4112022528b6de4e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\aa5e6130f1e3fbc6c3578cee44035c6e4466f3f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5bf041f18327ce4efafe3fe56d9f3ea07b8aff9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\8be3a65162f6e2439143e21b626d1235f49f77d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e6170c1496c55ee2a363d4303d11949bfeea69f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\b79d0f8ac70ae314d7d0a3b3f667eb1bc6f25870\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f853fc79d92f235e1bad4781242911be9e715fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\7ff4d10704255d0a60dcf2d5f0ffdd04880968fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ed3eac9cf8b4a1d06be8ae60bca97987c642d5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\bac8f2b45f257471d81b030944746becc81ca2f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28c0014fbb7839bee42b5bcc6b540d5e83697d97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\bac8f2b45f257471d81b030944746becc81ca2f8\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e1cb8234f53b082103ea049af74bc2d968f7eea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\ed8d75061e2cd6045be72a1b612b1ae09989ee6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb83ffec575b3fb24c3d5a3e5231ff862f381518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10457e86d911ee3cebc8e70f964556fe782a995d">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d27b1258596e75e64ab6fc756f5556217cf21670\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDKS\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_bdd74879a300fa8e002ea4f27b425ee6ed8506fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2343eb92bb21c0b60f32e2c73631ed1ce3cb37da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\044788a2d4246a4de8ba43e50b453604cd3f92a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a451f40cd8bab65855c3a3a58767dbed7b828c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\b7e7b4cb45ae9a4abc1a5db68ee878858abafdaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5eb23f0940577fa10ff7e33e3ff975728ff24494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\672c1343516b8412841f186989341233da58a6c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f0b287308c462c1919b2a7e9ff3b35ece189b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\ff6b359e2510498c28b312e900b972b6aae5aa01\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e9e06a73aeea884f92ff72c54f75877d2fbe7e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\ff6b359e2510498c28b312e900b972b6aae5aa01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f08094187e0996eda2fff9410c219d0c463716e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\474cef389b3cf80c6dbae6bbb7b9e4238fba0c1e\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dd6fdfc3b50371e160f82071a6e75ccf79948f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\2bf9ebe6ea475469d5df8d86e1e882448d3a6960\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7870f38e5410e190ceb91775599f7960df96ac4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\16471c0442e141a26be5cf14e10794ea37d28ee2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\dell\Downloads\Compressed\android-vision-master\android-vision-master\ocr-reader-start\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c52d386a26cbd5123c3475123dff3f432c72a4d8\classes.dex" />
+    </item>
+
+</items>
