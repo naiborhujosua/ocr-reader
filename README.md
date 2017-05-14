@@ -1,8 +1,8 @@
 # ocr-reader
 # Optical Character Recognition
-an Android app for recognizing character using
-[Mobile Vision API](https://developers.google.com/vision/)
-<img width="300" src="ocrimage.png">
+<img width="200" src="ocrimage.png">
+
+an Android app for recognizing character using [Mobile Vision API](https://developers.google.com/vision/)
 
 ## Features
 ```
